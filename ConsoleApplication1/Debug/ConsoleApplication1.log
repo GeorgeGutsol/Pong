@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  main.cpp
+c:\users\darka\source\repos\consoleapplication1\consoleapplication1\main.cpp(13): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\darka\source\repos\consoleapplication1\consoleapplication1\main.cpp(27): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\darka\source\repos\ConsoleApplication1\Debug\Pong.exe
