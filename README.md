@@ -3,6 +3,12 @@ Simple game
 
 Sperasoft inspired me to create this game. I want to apply for their C++ engineer internship. Creation of this game helped me to repeat some C++ features. It was interesting and exciting and I got unforgettable feelings from playing in my own game. 
 
+I wrote program using OOP. There is 4 classes in my program. Class Field describes proportions of gaming field and have function to draw it. Class Ball describes position of the ball and have function to change coordinates of ball. Class Gamer describes position of player and and have function to change coordinates of player. Class Judge describes scores of players and have functions to control movement of players and ball, define which of player is winner.
+
+Program consist 3 files. Classes was written in file pch.h. You can find commentaries for class fields and class methods in this file. Function bodies of class methods was written in pch.cpp. Main program was written in file main.cpp. All these files you can find in folder ConsoleApplication1.
+
+You can find executable file of the game in folder Debug. 
+
 You can see simple menu when you start project. You need to enter number of menu item to choose it. To read instructions choose menu item number 1. Also you can read it below. 
 
 Instructions:
